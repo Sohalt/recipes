@@ -1,0 +1,70 @@
+title: Pizza
+description: Classic Pizza with tomato sauce
+source: https://make.pizza
+categories:
+  - baking
+  - main-dish
+ingredients:
+  - name: Flour
+    qty: 600 g
+  - name: Water
+    qty: 400 ml
+  - name: Yeast
+    qty: 7 g
+  - name: Salt
+    qty: 12g
+  - name: Honey
+    qty: 1 tsp
+  - name: Olive Oil
+  - name: Tomatoes
+    qty: 1 can
+    prep: deskinned, canned
+  - name: fresh Mozarella
+    qty: 250g
+  - name: Salt
+  - name: Pepper
+  - name: Oregano
+  - name: Chili flakes
+
+
+preparation:
+  - name: "Dough"
+    prep: |
+      Dissolve yeast in lukewarm water, then mix all ingredients in a bowl for 2-3 minutes until evenly mixed. Let rest for 15-30 minutes.
+
+      Knead dough for at least 8 minutes until very smooth.
+
+      Coat 4 containers with a drizzle of olive oil.
+
+      Dust your work surface with flour, then place the dough on it and cut into four equal pieces. Roll the pieces into balls and place in the containers. Leave in the fridge overnight.
+  - name: "Sauce"
+    prep: |
+      Squish tomatoes with your hands into a sauce (leave some chunks).
+      Add salt, pepper, oregano, and chili flakes.
+
+  - name: "Toppings"
+    prep: |
+      Prepare all toppings upfront. Pre-cook veggies.
+
+      Shred mozarella with your hands.
+
+  - name: "Pizza"
+    prep: |
+      Preheat oven to max temperature. Ideally use a pizza stone.
+
+      Thoroughly coat a cutting board with flour.
+
+      Coat your hands with flour.
+      Stretch dough by pulling (don't use a rolling pin!) until very thin and almost see-through.
+      
+      Place dough on cutting board.
+
+      Coat dough with a drizzle of olive oil and spread evenly with your fingers.
+      
+      Add a little bit of tomato sauce (not too much!)
+
+      Add other toppings (not too much!)
+
+      Add mozarella
+
+      Bake for ~3-5min until cheese is melted and golden.
