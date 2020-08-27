@@ -1,0 +1,26 @@
+title: Grilled Feta
+description: Grilled feta with onions and tomatoes
+source: sohalt
+categories:
+  - bbq
+  - side-dish
+ingredients:
+  - name: Feta
+    qty: 200 g
+  - name: Onion
+    qty: 1/2 pcs
+    prep: sliced
+  - name: Tomatoes
+    qty: 1 pcs
+    prep: sliced
+  - name: Olive Oil
+  - name: Oregano
+  - name: Chili Flakes
+  - name: Pepper
+
+preparation:
+  - name: ""
+    prep: |
+      Slice Feta in half along the thin side. Place each piece on a sheet of aluminum foil and thinly coat the top with some olive oil. Add spices, onion slices, and tomato slices and wrap with the aluminum foil.
+
+      Place on a grill on low-medium heat for ~5-10 min.
